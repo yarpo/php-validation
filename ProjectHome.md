@@ -1,0 +1,1 @@
+Zestaw klas pozwalających na walidację danych w skryptach PHP. Zarówno typu zmiennych jak i wartości
